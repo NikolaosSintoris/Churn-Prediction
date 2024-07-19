@@ -3,6 +3,6 @@ Build a classification model that could accurately predict which customers are l
 
 ## Installation
 Create virtual environment with venv:
-  python -m venv churn_env
-  source churn_env/bin/activate
-  pip install -r path_to/requirements.txt
+  python -m venv churn_env  
+  source churn_env/bin/activate  
+  pip install -r path_to/requirements.txt  
